@@ -1,11 +1,10 @@
 - 👋 Hello, I'm Olivia, Student at Davsion High School and currently an Mott Communitiy College Student.
-- 👀 I am interested in Computer Science and Coding.
+- 👀 I am interested in Computer Science and Coding
 - 🌱 I’m currently learning how to use python and understanding the programming language in computer science. 
 - 💞️ I like to be creative and try new things that interest me or help my future. 
 - 📫 I can be reach out by Email:  <a href='mailto:your.omcoley79@davisonschools.org'>omcoley79@davsionschools.org</a> 
 </p>
-- 😄 My pronouns are she/her
-- ⚡ One thing about me
+- ⚡ I'm currently taking a game programming in GCI in order to presude my dream career of being part of computer security.  
 
 <p align='center'> 
 <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"> 
